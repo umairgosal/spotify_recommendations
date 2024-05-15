@@ -1,0 +1,49 @@
+#container{
+    text-align: center;
+    flex: auto;
+    font-size: larger;
+    background-color: sandybrown;
+    
+}
+
+#dropdown_1{
+    height: 35px;
+    width: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#dropdown_2{
+    height: 35px;
+    width: 300px;
+}
+
+#submitBtn{
+    padding: 10px;
+    margin-top: 10px;
+    background-color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+#genre_playlist{
+    border: 2px solid black;
+}
+#songs_list{
+    border: 2px solid black;
+    margin-right: 25px;
+    height: 250px;
+    margin-top: 30px;
+    float: left;
+    width: 900px;
+    background-color: lightcoral;
+}
+#song_details{
+    border: 2px solid black;
+    margin-left: 25px;
+    height: 250px;
+    width: 900px;
+    margin-top: 30px;
+    float: right;
+    background-color: lightblue;
+}
